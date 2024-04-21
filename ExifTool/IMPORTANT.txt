@@ -1,0 +1,13 @@
+This is not a binary generated from my code....
+And I take no credit for the exiftool.exe in the same directory
+
+
+However, I think this tool is one of the best tools to extract metadata from photos/videos
+
+In the future, I'll be providing more customization, to extract with different keys fields.
+
+For now however, I'll only support exif tool
+
+The usage is
+
+exiftool.exe -json <folder-path-containing-files>
